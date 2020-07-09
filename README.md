@@ -16,8 +16,8 @@ A social media based healthy tracking app
 ### Notice: The first or second running might crash, just try one more time
 
 ## Quick test
-1. After running successfully, sign in with an account(suggest builder’s account: duqinmei@bu.edu)
-2. In steps and calories pattern, download Google fit first on your android device and sign in with the same account( duqinmei@bu.edu ) to obtain today’s steps. Only in this way the steps would not be 0.
+1. After running successfully, sign in with an account(suggest builder’s account: yesyong@bu.edu)
+2. In steps and calories pattern, download Google fit first on your android device and sign in with the same account( yesyong@bu.edu ) to obtain today’s steps. Only in this way the steps would not be 0.
 3. Click the run button, you can start running and see others who are running at the same time.(If not seen, it means no one is running right now)
 4. After clicking the run button again to stop running, you can see your running track in the history fragment.
 5. You can also chat with our members on our friend fragment.
