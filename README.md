@@ -1,13 +1,12 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Mosso logo"></a>
 </p>
 
 <h3 align="center">Mosso</h3>
 
 <div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
+ 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/YongLAGCC/cs591_mosso/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/YongLAGCC/cs591_mosso/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
@@ -94,10 +93,10 @@ example as the image shows
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database (Connect the Authors)
-- [Express](https://expressjs.com/) - Server Framework (Connect the Authors)
-- [VueJs](https://vuejs.org/) - Web Framework (Connect the Authors)
-- [NodeJs](https://nodejs.org/en/) - Server Environment (Connect the Authors)
+- [Google Fit API](https://developers.google.com/fit) 
+- [Firebase](https://firebase.google.com/) 
+- [Material Design](https://material.io/develop) 
+- [Redis](https://redis.io/)  
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@kylelobo](https://github.com/YongLAGCC) - Idea & Initial work
@@ -111,7 +110,7 @@ https://developers.google.com/fit
 - Fit chat view from Github
 https://github.com/txusballesteros/fit-chart
 - Firebase
-https://firebase.google.com/
+https://firebase.google.com/docs
 - AWS Lambda
 https://aws.amazon.com/lambda/
 - Redis
